@@ -1,0 +1,15 @@
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\bin\Debug\net6.0\DesignAdapter.exe
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\bin\Debug\net6.0\DesignAdapter.deps.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\bin\Debug\net6.0\DesignAdapter.runtimeconfig.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\bin\Debug\net6.0\DesignAdapter.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\bin\Debug\net6.0\DesignAdapter.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.csproj.AssemblyReference.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.AssemblyInfoInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.AssemblyInfo.cs
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\refint\DesignAdapter.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\DesignAdapter.genruntimeconfig.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\DesignAdapter\obj\Debug\net6.0\ref\DesignAdapter.dll
