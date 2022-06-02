@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PatternsCreational", "Patte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PatternsStructural", "PatternsStructural", "{3E5794C0-D861-4936-9869-AC2A65680509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAdapter", "DesignAdapter\DesignAdapter.csproj", "{930631C4-A194-4471-A236-DB7F90898875}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAdapter", "PatternsStructural\DesignAdapter\DesignAdapter.csproj", "{930631C4-A194-4471-A236-DB7F90898875}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
