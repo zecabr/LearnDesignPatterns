@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+iLnnEAtGJJpZU5NZ+UzxJwPmdmoDe1XOKdymdoXKdUXyFU/YFQpR3XfG6dvb5t3U0RR2ELmHiKDMkB1E0wH+A==",
+  "dgSpecHash": "z9uxYlwPa8tgY7pFy3V93hE5IewdpaXGM/CBOecrEDuh3BrpubXQLtPJsVogKewXLWvzFzRCFIv7isK18M+wZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\BuilderProject.csproj",
+  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\DesignBuilderProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

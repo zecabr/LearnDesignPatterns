@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\BuilderProject.csproj",
-      "projectName": "BuilderProject",
-      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\BuilderProject.csproj",
+      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\DesignBuilderProject.csproj",
+      "projectName": "DesignBuilderProject",
+      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\DesignBuilderProject.csproj",
       "packagesPath": "C:\\Users\\jose.filho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Builder\\obj\\",
       "projectStyle": "PackageReference",

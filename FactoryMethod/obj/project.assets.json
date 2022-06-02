@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
-      "projectName": "FactoryMethod",
-      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\DesignFactoryMethod.csproj",
+      "projectName": "DesignFactoryMethod",
+      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\DesignFactoryMethod.csproj",
       "packagesPath": "C:\\Users\\jose.filho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",

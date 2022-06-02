@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Prototype\\Prototype.csproj",
-      "projectName": "Prototype",
-      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Prototype\\Prototype.csproj",
+      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Prototype\\DesignPrototype.csproj",
+      "projectName": "DesignPrototype",
+      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Prototype\\DesignPrototype.csproj",
       "packagesPath": "C:\\Users\\jose.filho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\Prototype\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{78E9E47E-9758-4B0D-8952-AB3AA05C7D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignAbstractFactory", "AbstractFactory\DesignAbstractFactory.csproj", "{78E9E47E-9758-4B0D-8952-AB3AA05C7D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderProject", "Builder\BuilderProject.csproj", "{8EFA7C16-D414-4B9C-A8E5-633AAA5D8F06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignBuilderProject", "Builder\DesignBuilderProject.csproj", "{8EFA7C16-D414-4B9C-A8E5-633AAA5D8F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{2C84843C-B9A4-4ECD-AAB9-1C3E517EC2D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignFactoryMethod", "FactoryMethod\DesignFactoryMethod.csproj", "{2C84843C-B9A4-4ECD-AAB9-1C3E517EC2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{8C50A8E0-B3AD-43C9-81E3-CC1DCC4DA56A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPrototype", "Prototype\DesignPrototype.csproj", "{8C50A8E0-B3AD-43C9-81E3-CC1DCC4DA56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignSingleton", "Singleton\DesignSingleton.csproj", "{EBA2A60D-FCC2-4F78-BB84-9E7D05C9D900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8C50A8E0-B3AD-43C9-81E3-CC1DCC4DA56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C50A8E0-B3AD-43C9-81E3-CC1DCC4DA56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C50A8E0-B3AD-43C9-81E3-CC1DCC4DA56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA2A60D-FCC2-4F78-BB84-9E7D05C9D900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA2A60D-FCC2-4F78-BB84-9E7D05C9D900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA2A60D-FCC2-4F78-BB84-9E7D05C9D900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA2A60D-FCC2-4F78-BB84-9E7D05C9D900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

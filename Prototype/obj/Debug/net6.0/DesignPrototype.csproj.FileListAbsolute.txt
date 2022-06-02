@@ -1,0 +1,15 @@
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\bin\Debug\net6.0\DesignPrototype.exe
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\bin\Debug\net6.0\DesignPrototype.deps.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\bin\Debug\net6.0\DesignPrototype.runtimeconfig.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\bin\Debug\net6.0\DesignPrototype.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\bin\Debug\net6.0\DesignPrototype.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.csproj.AssemblyReference.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.AssemblyInfoInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.AssemblyInfo.cs
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\refint\DesignPrototype.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\DesignPrototype.genruntimeconfig.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\Prototype\obj\Debug\net6.0\ref\DesignPrototype.dll

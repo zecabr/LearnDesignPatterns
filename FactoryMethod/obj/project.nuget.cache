@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7wVZAQmmNljNVkZGQ6qu31WVwNxdzG6/udGNAdcvaAt8EPmMQGCjgdV3z4WOtV23JJktMEdT1SLNkU7jgUXtSg==",
+  "dgSpecHash": "KXU+h93ycdiR4DCfBzmGfuLgHvOLUWgP/QlQc0y/zcDRrfbNX6F+3SyGe3HxwqvmdeZA0VbqmolskmGF08c7Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\FactoryMethod\\DesignFactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

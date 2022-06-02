@@ -1,0 +1,15 @@
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\bin\Debug\net6.0\DesignAbstractFactory.exe
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\bin\Debug\net6.0\DesignAbstractFactory.deps.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\bin\Debug\net6.0\DesignAbstractFactory.runtimeconfig.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\bin\Debug\net6.0\DesignAbstractFactory.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\bin\Debug\net6.0\DesignAbstractFactory.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.csproj.AssemblyReference.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.AssemblyInfo.cs
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\refint\DesignAbstractFactory.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\DesignAbstractFactory.genruntimeconfig.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\DesignAbstractFactory.dll

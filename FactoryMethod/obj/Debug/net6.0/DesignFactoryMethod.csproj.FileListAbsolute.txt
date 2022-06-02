@@ -1,0 +1,15 @@
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\bin\Debug\net6.0\DesignFactoryMethod.exe
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\bin\Debug\net6.0\DesignFactoryMethod.deps.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\bin\Debug\net6.0\DesignFactoryMethod.runtimeconfig.json
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\bin\Debug\net6.0\DesignFactoryMethod.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\bin\Debug\net6.0\DesignFactoryMethod.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.AssemblyInfo.cs
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\refint\DesignFactoryMethod.dll
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.pdb
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\DesignFactoryMethod.genruntimeconfig.cache
+C:\Users\jose.filho\source\repos\LearnDesignPatterns\FactoryMethod\obj\Debug\net6.0\ref\DesignFactoryMethod.dll

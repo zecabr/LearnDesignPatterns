@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
-      "projectName": "AbstractFactory",
-      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\DesignAbstractFactory.csproj",
+      "projectName": "DesignAbstractFactory",
+      "projectPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\DesignAbstractFactory.csproj",
       "packagesPath": "C:\\Users\\jose.filho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",

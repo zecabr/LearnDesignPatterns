@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiDVvl2SgAKCQHZkF02X/lT6qvUbP/qTd/gc3uEDPnjIqZdYucGDGO2lNheBBQVTWAxmFFMHvooC6ZVJYxBQ4Q==",
+  "dgSpecHash": "XY9K1/5ufUHiVOcSiet0DXQiTBfkK6wXK4//b/L7zdjXCeenl8a1FPsrVSvA2A7kJ3LvFejVfPmK1RnPJ6LW7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "C:\\Users\\jose.filho\\source\\repos\\LearnDesignPatterns\\AbstractFactory\\DesignAbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
